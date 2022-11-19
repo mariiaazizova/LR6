@@ -32,3 +32,21 @@
 
 ## Создание ветки для отчета
 ![image](https://user-images.githubusercontent.com/117989857/202847682-8e5ef957-5c76-4420-aac4-6a15ddffd8f5.png)
+
+## Лог команд
+$ cd D:/LR6
+$ git clone 
+$ git pull
+$ cd LR6
+$ git pull
+$ git log
+$ git checkout branch1
+$ git checkout master
+$ git merge branch1
+$ git status
+$ git add .
+$ git commit -m 'add base and txt'
+$ git branch -d branch1
+$ git branch
+$ git reset --hard HEAD~1
+$ git checkout -b 'New'
