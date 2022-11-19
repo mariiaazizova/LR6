@@ -34,10 +34,9 @@
 ![image](https://user-images.githubusercontent.com/117989857/202847682-8e5ef957-5c76-4420-aac4-6a15ddffd8f5.png)
 
 ## Лог команд
+
 $ cd D:/LR6
-
 $ git clone
-
 $ git pull
 $ cd LR6
 $ git pull
