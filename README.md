@@ -29,3 +29,6 @@
 
 ## Откат коммита
 ![image](https://user-images.githubusercontent.com/117989857/202847643-92724cdc-04c2-417d-a5b2-629b9ae5017c.png)
+
+## Создание ветки для отчета
+![image](https://user-images.githubusercontent.com/117989857/202847682-8e5ef957-5c76-4420-aac4-6a15ddffd8f5.png)
