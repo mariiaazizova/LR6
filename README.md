@@ -8,3 +8,6 @@
 
 ## Редактируем Git
 ![image](https://user-images.githubusercontent.com/117989857/202847497-8e442e59-eb57-4277-ae2b-cbc04d272cf1.png)
+
+## Клонирование личного репозитория на пк
+![image](https://user-images.githubusercontent.com/117989857/202847524-52aa71ae-489e-445b-b817-66d6b056a26b.png)
