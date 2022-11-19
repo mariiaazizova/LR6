@@ -34,6 +34,7 @@
 ![image](https://user-images.githubusercontent.com/117989857/202847682-8e5ef957-5c76-4420-aac4-6a15ddffd8f5.png)
 
 ## Лог команд
+```
 $ git clone
 $ git pull
 $ git branch -l
@@ -46,3 +47,4 @@ $ git commit
 $ git reset --hard HEAD~1
 $ git checkout -b New
 $ git log --pretty 
+```
