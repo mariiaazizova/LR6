@@ -17,3 +17,15 @@
 
 ## Получаем историю операций каждой ветки
 ![image](https://user-images.githubusercontent.com/117989857/202847579-c9e94db4-0ce8-4e8c-8eef-91b16c6120fa.png)
+
+## Выполняем слияние, разрешая конфликт
+![image](https://user-images.githubusercontent.com/117989857/202847614-9ba86662-57d2-4992-9b1c-907b8894372f.png)
+
+## Удаляем побочную ветку
+![image](https://user-images.githubusercontent.com/117989857/202847626-75ea524a-26bf-447b-9807-a33061c319cb.png)
+
+## Делаем изменения и фиксируем их
+![image](https://user-images.githubusercontent.com/117989857/202847635-536c6824-1d44-4f01-b5bf-afdfe33e6bd9.png)
+
+## Откат коммита
+![image](https://user-images.githubusercontent.com/117989857/202847643-92724cdc-04c2-417d-a5b2-629b9ae5017c.png)
